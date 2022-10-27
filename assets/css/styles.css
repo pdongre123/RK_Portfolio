@@ -380,7 +380,7 @@ img {
   outline: none;
   font-size: var(--normal-font-size);
   cursor: pointer;
-  margin-left: auto;
+  margin-left:120px;
 }
 
 /* ===== FOOTER =====*/
