@@ -491,9 +491,9 @@ img {
     margin-bottom: var(--mb-4);
   }
 }
-@media screen and (max-width: 2000px) {
+@media screen and (min-width: 777px) and (max-width:1245px) {
   .footer__logo {
-    margin-left: 560px;
+    margin-left: 320px;
     margin-bottom: var(--mb-4);
   }
 }
